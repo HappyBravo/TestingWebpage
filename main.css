@@ -1,0 +1,121 @@
+html, body {
+  overflow-x: hidden;
+}
+.container-fluid{
+  background-color: #000000;
+   position: relative; 
+}
+
+.navbar-nav{
+  text-align: right;
+
+}
+.navbar-title{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  display: inline;
+  margin-left: 1rem;
+}
+/* home */
+#home{
+    margin:6% 9%;
+    margin-bottom: 10%;
+}
+.home-name{
+  font-size: 2rem;
+  color: #d0ff00;
+  font-weight: bold;
+}
+.home-sectitle{
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ff6200;
+
+}
+.home-dsc{
+  color: #FFFFFF;
+}
+#loc-text{
+  display: inline;
+}
+.home-img{
+  width:32rem;
+  padding-top: 2rem;
+}
+
+.home-icons{
+  color: #BDC3C7;
+  padding-right: 0.7rem;
+}
+.contact-me{
+  margin-top: 2rem;
+}
+#projects{
+  margin:6% 9%;
+
+}
+.socials-div{
+  padding: 7% 13%;
+  background-color: #d0ff00;
+  margin:0;
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  margin-top: 2rem;
+  left: 50%;
+}
+#credits{
+  color: #ff7315;
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+}
+.card{
+  margin-top: 2rem;
+}
+.links{
+  text-align: left;
+  margin-top:5rem;
+}
+#projects h2,.card-link{
+  color: white;
+}
+.card-link{
+  font-size: 1.5rem;
+}
+.projects-btn{
+  margin: 2rem;
+}
+#contactme{
+  margin:10% 10%;
+  color:#BDC3C7
+
+}
+.cont{
+  text-align:center;
+
+}
+section{
+  scroll-behavior: smooth;
+}
+.footer {
+  background-color:#d0ff00;
+  color: #BDC3C7;
+  height: 150px;
+  padding: 0px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 30px;
+  
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+  list-style: none;
+}
